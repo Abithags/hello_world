@@ -1,3 +1,3 @@
 # hello_world
 Hi,
-GIT is distributed source control system
+GIT is distributed version control system
